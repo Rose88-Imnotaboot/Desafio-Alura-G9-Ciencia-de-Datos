@@ -5,6 +5,8 @@ Proyecto : Se realiza un proyecto para ayudar al Sr. Juan a decidir que tienda d
 Lo que se practicara sera : 
 
 *Carga y manipulacion de datos CSV con la biblioteca Pandas.
+
 *Crear visualizacion de datos con la biblioteca de Matplotlib.
+
 *Analisis de metricas como: ingresos, reseñas y rendimiento de ventas.
 
